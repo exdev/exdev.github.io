@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://your-website.com</loc>
+    </url>
+    
+    
+    <url>
+        <loc>http://your-website.com/articles/code-highlighting-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/sample-link-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/video-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/readability-feature-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/sample-post-images</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/readability-post</loc>
+    </url>
+    
+    <url>
+        <loc>http://your-website.com/articles/sample-post</loc>
+    </url>
+    
+</urlset>
