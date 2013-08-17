@@ -1,9 +1,9 @@
 title:            exDev
-description:      Describe your website here.
+description:      Game Development Software Provider. Home of ex2D and exVim.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://ex-dev.com
+url:              # http://ex-dev.com
 
 # Owner/author information
 owner:
@@ -31,12 +31,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Articles
-    url: /articles
-  - title: ex2d
+  #  - title: About
+  #    url: /about
+  - title: ex2D
     url: /ex2d
+  - title: exVim
+    url: /exVim
   - title: aBit Games 
     url: http://abitgames.com
     external: true
