@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: store
 permalink: /store/
 title: ex2D Products
 image:
@@ -20,9 +20,11 @@ image:
 
 ## ex2D v1.2.7 Indie ($35) 
 
-- <a href="https://www.assetstore.unity3d.com/#/content/1795" class="downloadBtn">Buy From Asset Store</a>
-- <a href="http://sites.fastspring.com/exdev/product/ex2dindie" class="downloadBtn">Buy From Our Web Store</a>
-- [Visit ex2D v1 Homepage][4] 
+<a href="https://www.assetstore.unity3d.com/#/content/1795" class="downloadBtn">Buy From Asset Store</a>
+
+<a href="http://sites.fastspring.com/exdev/product/ex2dindie" class="downloadBtn">Buy From Our Web Store</a>
+
+[Visit ex2D v1 Homepage][4] 
 
 [4]: http://exdev.webfactional.com/ex2d/
 
@@ -30,7 +32,7 @@ If you purchase ex2D v1.2.7 now, you'll get ex2D v2 license for free and access 
 
 ## ex2D Pro ($125)
 
-- <a href="http://sites.fastspring.com/exdev/product/ex2dpro" class="downloadBtn">Buy From Our Web Store</a>
+<a href="http://sites.fastspring.com/exdev/product/ex2dpro" class="downloadBtn">Buy From Our Web Store</a>
 
 ex2D Pro license holder will get pull permission to ex2D development repository. So you can easily fork the repo and merge the latest build
  with your customized code. Pro license also includes license of any further ex2D expansions.
