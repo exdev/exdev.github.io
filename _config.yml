@@ -31,8 +31,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  #  - title: About
-  #    url: /about
+  - title: Store
+    url: /store
   - title: ex2D
     url: /ex2d
   - title: exVim
