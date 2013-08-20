@@ -3,7 +3,7 @@ description:      Game Development Software Provider. Home of ex2D and exVim.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://ex-dev.com
+url:              # http://ex-dev.com
 
 # Owner/author information
 owner:
@@ -39,6 +39,8 @@ links:
     url: /ex2d
   - title: exVim
     url: /exvim
+  - title: Wiki
+    url: /wiki
   - title: aBit Games 
     url: http://abitgames.com
     external: true
