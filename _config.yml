@@ -3,7 +3,8 @@ description:      Game Development Software Provider. Home of ex2D and exVim.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              # http://ex-dev.com
+url:              http://ex-dev.com
+relative_permalinks: false
 
 # Owner/author information
 owner:

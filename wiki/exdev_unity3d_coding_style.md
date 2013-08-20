@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Unity3D 编程规范
-permalink: /wiki/exdev_unity3d_coding_style
+permalink: /wiki/exdev_unity3d_coding_style/
 ---
 
 ## 概括
