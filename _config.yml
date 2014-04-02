@@ -40,6 +40,7 @@ links:
     url: /ex2d
   - title: exVim
     url: http://exvim.github.io
+    external: true
   - title: aBit Games 
     url: http://abitgames.com
     external: true

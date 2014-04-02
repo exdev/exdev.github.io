@@ -11,6 +11,7 @@
 ./baidu_verify_pdLnrzr52D.html
 ./CNAME
 ./exdev_site.vimentry
+./exvim.md
 ./favicon.ico
 ./favicon.png
 ./feed.xml
@@ -80,6 +81,7 @@
 ./_includes/navigation.html
 ./_includes/scripts.html
 ./_layouts
+./_layouts/exvim.html
 ./_layouts/page.html
 ./_layouts/post.html
 ./_layouts/store.html

@@ -1,6 +1,6 @@
 " Press <F1> for help
 
--[F]exdev_site {
+-[F]exdev.github.com {
  |-[F]_includes {
  | |-browser-upgrade.html
  | |-disqus_comments.html
@@ -11,8 +11,8 @@
  | |-scripts.html }
  |
  |-[F]_layouts {
- | |-page.html
  | |-exvim.html
+ | |-page.html
  | |-post.html
  | |-store.html }
  |
@@ -85,6 +85,7 @@
  |-baidu_verify_pdLnrzr52D.html
  |-CNAME
  |-exdev_site.vimentry
+ |-exvim.md
  |-favicon.ico
  |-favicon.png
  |-feed.xml
@@ -94,7 +95,6 @@
  |-quick_gen_project_exdev_site_autogen.sh
  |-README.md
  |-sitemap.xml
- |-exvim.md
  |-store.md
  |-tags.html
  |-theme-setup.md }
