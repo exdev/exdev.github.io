@@ -1,5 +1,6 @@
-## Links
+# Welcome
 
-* [Official Site](http://www.ex-dev.com/) 
-* [Unity3D 编程规范](https://github.com/exdev/exdev.github.io/wiki/Unity3D-编程规范)
+This is the source document for exDev website: http://ex-dev.com
+
+
 

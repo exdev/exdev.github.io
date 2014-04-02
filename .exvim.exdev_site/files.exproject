@@ -1,0 +1,102 @@
+" Press <F1> for help
+
+-[F]exdev_site {
+ |-[F]_includes {
+ | |-browser-upgrade.html
+ | |-disqus_comments.html
+ | |-footer.html
+ | |-head.html
+ | |-navigation-no-logo.html
+ | |-navigation.html
+ | |-scripts.html }
+ |
+ |-[F]_layouts {
+ | |-page.html
+ | |-exvim.html
+ | |-post.html
+ | |-store.html }
+ |
+ |-[F]_posts {
+ | |-2011-03-10-sample-post.md
+ | |-2012-05-22-readability-post.md
+ | |-2013-05-22-sample-post-images.md
+ | |-2013-05-23-readability-feature-post.md
+ | |-2013-06-25-video-post.md
+ | |-2013-08-12-sample-link-post.md
+ | |-2013-08-16-code-highlighting-post.md }
+ |
+ |-[F]assets {
+ | |-[F]css {
+ | | |-main.css }
+ | |
+ | |-[F]fonts {
+ | | |-fontawesome-webfont.eot
+ | | |-fontawesome-webfont.svg
+ | | |-fontawesome-webfont.ttf
+ | | |-fontawesome-webfont.woff
+ | | |-FontAwesome.otf }
+ | |
+ | |-[F]js {
+ | | |-[F]vendor {
+ | | | |-jquery-1.9.1.min.js
+ | | | |-jquery.fitvids.js
+ | | | |-jquery.magnific-popup.js
+ | | | |-modernizr-2.6.2.custom.min.js
+ | | | |-respond.js }
+ | | |
+ | | |-main.js
+ | | |-main.min.js }
+ | |
+ | |-[F]less {
+ |   |-coderay.less
+ |   |-elements.less
+ |   |-font-awesome.less
+ |   |-forms.less
+ |   |-grid.less
+ |   |-main.less
+ |   |-mixins.less
+ |   |-page.less
+ |   |-pygments.less
+ |   |-reset.less
+ |   |-site.less
+ |   |-typography.less
+ |   |-variables.less } }
+ |
+ |-[F]images {
+ | |-3953273590_704e3899d5_m.jpg
+ | |-apple-touch-icon-114x114-precomposed.png
+ | |-apple-touch-icon-144x144-precomposed.png
+ | |-apple-touch-icon-72x72-precomposed.png
+ | |-apple-touch-icon-precomposed.png
+ | |-product_feature.jpg
+ | |-site-logo.png
+ | |-so-simple-sample-image-1.jpg
+ | |-so-simple-sample-image-2.jpg
+ | |-so-simple-sample-image-3.jpg
+ | |-so-simple-sample-image-4.jpg
+ | |-so-simple-sample-image-5.jpg
+ | |-so-simple-theme-preview.jpg
+ | |-twitter-card-summary-large-image.jpg }
+ |
+ |-404.md
+ |-_config.yml
+ |-about.md
+ |-articles.html
+ |-baidu_verify_pdLnrzr52D.html
+ |-CNAME
+ |-exdev_site.vimentry
+ |-favicon.ico
+ |-favicon.png
+ |-feed.xml
+ |-Gemfile
+ |-index.md
+ |-LICENSE
+ |-quick_gen_project_exdev_site_autogen.sh
+ |-README.md
+ |-sitemap.xml
+ |-exvim.md
+ |-store.md
+ |-tags.html
+ |-theme-setup.md }
+
+

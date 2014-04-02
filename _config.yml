@@ -39,9 +39,7 @@ links:
   - title: ex2D
     url: /ex2d
   - title: exVim
-    url: /exvim
-  - title: Wiki
-    url: /wiki
+    url: http://exvim.github.io
   - title: aBit Games 
     url: http://abitgames.com
     external: true

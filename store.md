@@ -3,7 +3,7 @@ layout: store
 permalink: /store/
 title: ex2D Products
 image:
-  feature: product_feature.jpg
+feature: product_feature.jpg
 ---
 
 ## ex2D v2.0 Beta (Free)

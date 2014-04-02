@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://ex-dev.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://ex-dev.com" />
-<updated>2013-08-27T17:09:17+08:00</updated>
+<updated>2014-04-03T01:33:08+08:00</updated>
 <id>http://ex-dev.com/</id>
 <author>
   <name>exDev</name>
@@ -105,14 +105,14 @@
       @site = site
       @base = base
       @dir = dir
-      @name = 'index.html'
+      @name = &#39;index.html&#39;
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '&amp;amp;#8211;'
-      self.data['title'] = &quot;#{tag_title_prefix}#{tag}&quot;
-      self.data['description'] = &quot;An archive of posts tagged #{tag}.&quot;
+      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
+      self.data[&#39;tag&#39;] = tag
+      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
+      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;&amp;amp;#8211;&#39;
+      self.data[&#39;title&#39;] = &quot;#{tag_title_prefix}#{tag}&quot;
+      self.data[&#39;description&#39;] = &quot;An archive of posts tagged #{tag}.&quot;
     end
   end
 end
@@ -120,7 +120,7 @@ end
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
@@ -476,7 +476,7 @@ end
 &lt;p&gt;Non Pygments code example&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;&amp;lt;div id=&quot;awesome&quot;&amp;gt;
-    &amp;lt;p&amp;gt;This is great isn't it?&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;This is great isn&#39;t it?&amp;lt;/p&amp;gt;
 &amp;lt;/div&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 
